@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![iQNRen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iQNRen&layout=compact&hide_border=true&langs_count=10)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iQNRen)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

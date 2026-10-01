@@ -22,6 +22,11 @@
 ### 📝 最新博文
 
 <!-- BLOG-POSTS:START -->
+- [[转载] 计算广告业务碎碎念](https://hexo.qnrs.cloudns.org/posts/3733433972/)
+- [四种全屋WiFi组网一次讲透｜装修布线不踩坑](https://hexo.qnrs.cloudns.org/posts/1800530946/)
+- [一张看懂30个后端工程核心概念](https://hexo.qnrs.cloudns.org/posts/522754604/)
+- [[转载] k8s 中的 Service 简介【k8s 系列之二】](https://hexo.qnrs.cloudns.org/posts/1505890377/)
+- [[转载] k8s 中的 Ingress 简介【k8s 系列之三】](https://hexo.qnrs.cloudns.org/posts/4169321155/)
 <!-- BLOG-POSTS:END -->
 
 ### 📊 GitHub 数据

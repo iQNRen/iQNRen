@@ -1,31 +1,36 @@
-<!-- ### Hi there 👋-->
+## 你好，我是 Qnrs 👋
 
-<!-- ![Metrics](https://metrics.lecoq.io/iQNRen?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BD968&center=true&vCenter=true&width=500&lines=%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91;+%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;%E5%AD%A6%E4%B9%A0+%2B+%E6%9E%84%E5%BB%BA+%2B+%E5%AE%9E%E8%B7%B5+%2B+%E6%8E%8C%E6%8F%A1)](https://github.com/iQNRen)
 
-<!--![![iQNRen's GitHub stats](https://github-readme-stats.vercel.app/api?username=iQNRen)](https://github.com/anuraghazra/github-readme-stats)-->
+- 🔭 目前在做：**计算广告系统**开发（竞价、召回、投放全链路）
+- 🌱 一直在学：Kubernetes、Redis、消息队列与高并发架构
+- 📝 在写：[**青梧札记**](https://hexo.qnrs.cloudns.org) —— 记录技术探索与日常分享
 
-<!-- ![iQNRen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iQNRen&layout=compact&hide_border=true&langs_count=10) -->
+### 🛠 技术栈
 
-<!-- # Github Profile Trophy-->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iQNRen&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<!-- ![](https://img.shields.io/twitch/status/:user?style=social) -->
+### 📝 最新博文
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=iQNRen) -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
-<!-- [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iQNRen&theme=xcode)](https://github.com/iQNRen) -->
+### 📊 GitHub 数据
 
+[![Qnrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=iQNRen&show_icons=true&hide_border=true&count_private=true&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iQNRen&layout=compact&hide_border=true&langs_count=8&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**iQNRen/iQNRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![ECO](https://raw.githubusercontent.com/iQNRen/iQNRen/output/github-contribution-grid-snake.svg)](https://github.com/iQNRen/iQNRen)
 
-### Yoo, I'm Qnrs 👋
-
-<!-- [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/iqnren)  -->
-
-- 🔭 I’m studying ...
-- 🌱 I’m currently learning
-- 👯 C++/Java
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C06B&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+things!)](https://git.io/typing-svg) 
+<p align="right">
+  <img src="https://img.shields.io/badge/%E9%9D%92%E6%A2%A7%E6%9C%AD%E8%AE%B0-%F0%9F%93%96-6BD968?style=flat-square&labelColor=1b1f27" alt="青梧札记">
+</p>

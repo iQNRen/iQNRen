@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-[![ECO](https://raw.githubusercontent.com/iQNRen/iQNRen/output/github-contribution-grid-snake.svg)](https://github.com/iQNRen/iQNRen)
+![关注者](https://img.shields.io/github/followers/iQNRen?label=关注者&style=flat-square&logo=github&color=6BD968)![获星](https://img.shields.io/github/stars/iQNRen?affiliations=OWNER&label=获星&style=flat-square&logo=github&color=6BD968)![公开仓库](https://img.shields.io/badge/dynamic/json?label=公开仓库&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FiQNRen&style=flat-square&logo=github&color=6BD968)
 
 <p align="right">
   <img src="https://img.shields.io/badge/%E9%9D%92%E6%A2%A7%E6%9C%AD%E8%AE%B0-%F0%9F%93%96-6BD968?style=flat-square&labelColor=1b1f27" alt="青梧札记">

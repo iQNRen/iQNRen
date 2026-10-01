@@ -1,4 +1,4 @@
-## 你好，我是 Qnrs 👋
+## 你好，我是 圈内人士 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BD968&center=true&vCenter=true&width=500&lines=%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91;+%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;%E5%AD%A6%E4%B9%A0+%2B+%E6%9E%84%E5%BB%BA+%2B+%E5%AE%9E%E8%B7%B5+%2B+%E6%8E%8C%E6%8F%A1)](https://github.com/iQNRen)
 
@@ -26,8 +26,8 @@
 
 ### 📊 GitHub 数据
 
-[![Qnrs's GitHub stats](https://github-readme-stats.vercel.app/api?username=iQNRen&show_icons=true&hide_border=true&count_private=true&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iQNRen&layout=compact&hide_border=true&langs_count=8&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
+[![圈内人士的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=iQNRen&show_icons=true&hide_border=true&count_private=true&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
+[![常用语言 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iQNRen&layout=compact&hide_border=true&langs_count=8&theme=tolerant)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ECO](https://raw.githubusercontent.com/iQNRen/iQNRen/output/github-contribution-grid-snake.svg)](https://github.com/iQNRen/iQNRen)
 
